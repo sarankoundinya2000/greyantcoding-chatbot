@@ -8,5 +8,5 @@ openai  # For using ChatOllama with LLMs
 fastembed
 pypdf
 chromadb
-
+sqlite3
 protobuf==3.20.*
