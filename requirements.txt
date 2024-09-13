@@ -1,7 +1,6 @@
 pip
 streamlit
 langchain_community
-pypdf2
 fastapi  # FastAPI may be required by Chroma
 uvicorn  # Uvicorn may be required for FastAPI
 openai  # For using ChatOllama with LLMs
