@@ -1,7 +1,3 @@
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-
 pip
 streamlit
 langchain_community
@@ -12,3 +8,4 @@ fastembed
 pypdf
 chromadb
 protobuf==3.20.*
+pysqlite3-binary 
