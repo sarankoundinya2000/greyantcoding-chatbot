@@ -1,3 +1,4 @@
+pip
 streamlit
 langchain_community
 pypdf2
